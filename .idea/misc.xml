@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/drawable-v24/shape_white.xml" value="0.11" />
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/drawable/shape_white.xml" value="0.11" />
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/layout/activity_detail.xml" value="0.1921875" />
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/layout/list_food_recomended.xml" value="0.1" />
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/layout/list_food_terbaru.xml" value="0.1921875" />
+        <entry key="..\:/apry/android/FoodApp/app/src/main/res/layout/list_foods.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
